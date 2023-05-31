@@ -15,3 +15,8 @@ Thumbs.db
 # VSCode
 .vscode/*
 */.env
+
+**/data/
+*.csv
+*.png
+*.zip
